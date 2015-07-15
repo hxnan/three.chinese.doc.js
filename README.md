@@ -1,2 +1,3 @@
 # three.chinese.doc.js
-Three.js 的中文文档。The document of three.js in chinese.
+Three.js 的中文文档.
+<a href="http://115.28.165.7:3001/" target="_blank">文档暂时测试网址</a>
